@@ -3,11 +3,7 @@
 This repository contains code for Todo app with react-redux.
 
 View Demo:
-https://react-redux-todo-app-lac.vercel.app/
-
-If you want to learn how to create it please follow below tutorial:
-
-https://youtu.be/YhgSuUkWlK4
+https://list-xi.vercel.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
