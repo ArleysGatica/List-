@@ -1,9 +1,4 @@
-# Build TODO App with Redux and React JS
-
-This repository contains code for Todo app with react-redux.
-
-View Demo:
-https://list-xi.vercel.app/
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
